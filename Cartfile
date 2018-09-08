@@ -1,11 +1,11 @@
-github "yogary9/LoopKit" "KatieCustom"
+# github "yogary9/LoopKit" "KatieCustom"
 # git "file:///Users/gary/github/LoopKit" "KatieCustom"
-# github "kdisimone/LoopKit" "katie"
+github "kdisimone/LoopKit" "katie"
 github "LoopKit/CGMBLEKit" == 2.1.1
 github "i-schuetz/SwiftCharts" == 0.6.1
 github "mddub/dexcom-share-client-swift" == 0.4.1
 github "mddub/G4ShareSpy" == 0.3.3
-github "yogary9/rileylink_ios" "KatieCustom"
+# github "yogary9/rileylink_ios" "KatieCustom"
 # git "file:///Users/gary/github/rileylink_ios" "KatieCustom"
-# github "kdisimone/rileylink_ios" "katie"
+github "kdisimone/rileylink_ios" "katie"
 github "LoopKit/Amplitude-iOS" "decreepify"

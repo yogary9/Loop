@@ -5,7 +5,7 @@
 "%1$@ U" = "%1$@ U";
 
 /* The subtitle format describing the current temp basal rate. (1: localized basal rate description) */
-"%1$@ U/hr" = "%1$@ U/時";
+"%1$@ U/hr" = "%1$@ U/hr";
 
 /* The format string for the app name and version number. (1: bundle name)(2: bundle version) */
 "%1$@ v%2$@" = "%1$@ v%2$@";

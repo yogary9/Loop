@@ -8,7 +8,7 @@
 "%@ absorbed" = "%@ 吸収済";
 
 /* The subtitle format describing total insulin. (1: localized insulin total) */
-"%@ U Total" = "計 %@ 単位";
+"%@ U Total" = "計 %@ U";
 
 /* Appends a full-stop to a statement */
 "%@." = "%@.";
@@ -24,13 +24,13 @@
 "%1$@ + %2$@" = "%1$@ + %2$@";
 
 /* Low reservoir alert format string. (1: Number of units remaining) */
-"%1$@ U left" = "残 %1$@ 単位";
+"%1$@ U left" = "残り %1$@ U";
 
 /* Low reservoir alert with time remaining format string. (1: Number of units remaining)(2: approximate time remaining) */
-"%1$@ U left: %2$@" = "残 %1$@ 単位: %2$@";
+"%1$@ U left: %2$@" = "残り %1$@ U: %2$@";
 
 /* The format for recommended temp basal rate and time. (1: localized rate number)(2: localized time) */
-"%1$@ U/hour @ %2$@" = "%1$@ U/時 @ %2$@";
+"%1$@ U/hour @ %2$@" = "%1$@ U/hr @ %2$@";
 
 /* The format string for the app name and version number. (1: bundle name)(2: bundle version) */
 "%1$@ v%2$@" = "%1$@ v%2$@";
@@ -99,7 +99,7 @@
 "at %@" = "%@ 時点";
 
 /* The message displayed during a device authentication prompt for bolus specification */
-"Authenticate to Bolus %@ Units" = "ボーラス %@ 単位　認証してください";
+"Authenticate to Bolus %@ Units" = "ボーラス %@ U　認証してください";
 
 /* Details for configuration error when basal rate schedule is missing */
 "Basal Rate Schedule" = "基礎レートスケジュール";
@@ -178,7 +178,7 @@
 "Dexcom Share" = "Dexcom Share";
 
 /* The action hint of the workout mode toggle button when enabled */
-"Disables" = "無効にする";
+"Disables" = "オーバーライド";
 
 /* Title of the switch which toggles retrospective correction effects */
 "Enable Retrospective Correction" = "レトロ補正を有効にする";
@@ -202,7 +202,7 @@
 "Fiasp" = "Fiasp";
 
 /* The format string used to describe a finite workout targets duration */
-"For %1$@" = "%1$@ につき";
+"For %1$@" = "%1$@";
 
 /* The short unit display string for grams */
 "g" = "g";
@@ -214,7 +214,7 @@
 "G5/G6 Transmitter" = "G5/G6 トランスミッタ";
 
 /* The title of the glucose and prediction graph */
-"Glucose" = "血糖値";
+"Glucose" = "血糖値 9.29_1";
 
 /* The error message when glucose data is too old to be used. (1: glucose data age in minutes) */
 "Glucose data is %1$@ old" = "血糖データは %1$@ 前のものです";
@@ -345,7 +345,7 @@
 "Pump Reservoir Empty" = "ポンプのリザーバが空です";
 
 /* The notification title for a low pump reservoir */
-"Pump Reservoir Low" = "ポンプのリザーバが低です";
+"Pump Reservoir Low" = "ポンプのリザーバの残量が少なくなっています";
 
 /* Format string for combining localized numeric value and unit. (1: numeric value)(2: unit) */
 "QUANTITY_VALUE_AND_UNIT" = "%1$@ %2$@";
@@ -366,7 +366,7 @@
 "Recommended Basal" = "推奨基礎分泌量";
 
 /* Accessibility hint describing recommended bolus units */
-"Recommended Bolus: %@ Units" = "推奨ボーラス: %@ 単位";
+"Recommended Bolus: %@ Units" = "推奨ボーラス: %@ U";
 
 /* The notification title for a remote temp being canceled */
 "Remote Temporary Target Canceled " = "Remote Temporary Target Canceled";
@@ -469,7 +469,7 @@
 "Walsh" = "Walsh";
 
 /* Explanation of suspend threshold */
-"When current or forecasted glucose is below the suspend threshold, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour." = "現在または予測グルコースが一時停止値を下回るため、ループはボーラスを推奨しません。０単位/時の一時的基礎レートを推奨します。";
+"When current or forecasted glucose is below the suspend threshold, Loop will not recommend a bolus, and will always recommend a temporary basal rate of 0 units per hour." = "現在または予測グルコースが一時停止値を下回る場合、ループはボーラスを推奨しません。０単位/時の一時的基礎レートを推奨します。";
 
 /* The label of the workout mode toggle button */
 "Workout Targets" = "運動時ターゲット";

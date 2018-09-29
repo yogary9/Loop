@@ -2,7 +2,7 @@
 "3kU-n2-fha.title" = "状態";
 
 /* Class = "UILabel"; text = "3.5 U/hour @ 12:12 PM"; ObjectID = "5gz-kZ-iF1"; */
-"5gz-kZ-iF1.text" = "3.5 U/時 @ 12:12 PM";
+"5gz-kZ-iF1.text" = "3.5 U/hr @ 12:12 PM";
 
 /* Class = "UILabel"; text = "Bolus"; ObjectID = "5oA-6d-ZTL"; */
 "5oA-6d-ZTL.text" = "ボーラス";
@@ -35,7 +35,7 @@
 "bq4-98-cQU.text" = "グルコース変動";
 
 /* Class = "UILabel"; accessibilityLabel = "Units"; ObjectID = "BR0-dr-Fj2"; */
-"BR0-dr-Fj2.accessibilityLabel" = "単位";
+"BR0-dr-Fj2.accessibilityLabel" = "U";
 
 /* Class = "UILabel"; text = "U"; ObjectID = "BR0-dr-Fj2"; */
 "BR0-dr-Fj2.text" = "U";
@@ -92,7 +92,7 @@
 "m9c-SQ-djE.text" = "タップして設定";
 
 /* Class = "UILabel"; accessibilityLabel = "Units"; ObjectID = "mVz-dr-xLU"; */
-"mVz-dr-xLU.accessibilityLabel" = "単位";
+"mVz-dr-xLU.accessibilityLabel" = "U";
 
 /* Class = "UILabel"; text = "U"; ObjectID = "mVz-dr-xLU"; */
 "mVz-dr-xLU.text" = "U";

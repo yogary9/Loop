@@ -11,10 +11,10 @@
 "%1$@ at %2$@" = "%1$@ @ %2$@";
 
 /* Accessibility format string describing the basal rate. (1: localized basal rate value)(2: last updated time) */
-"%1$@ units per hour at %2$@" = "%1$@ U/時 @ %2$@";
+"%1$@ units per hour at %2$@" = "%1$@ U/hr @ %2$@";
 
 /* Accessibility format string for (1: localized volume)(2: time) */
-"%1$@ units remaining at %2$@" = "残り %1$@ 単位 @ %2$@";
+"%1$@ units remaining at %2$@" = "残り %1$@ U @ %2$@";
 
 /* Accessibility hint describing completion HUD for a closed loop */
 "Closed loop" = "クローズドループ";

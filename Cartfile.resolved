@@ -1,5 +1,5 @@
-git "file:///Users/gary/github/LoopKit" "0819ac9a4f4ee179ff3a6b497f77b225dbdd71ef"
-git "file:///Users/gary/github/rileylink_ios" "e8599073c3b38c10c756d63df5f9fe5d6c1449ee"
+git "file:///Users/gary/github/LoopKit" "42ad2db4738ab337910c3d6ba45e40aa93b11bd0"
+git "file:///Users/gary/github/rileylink_ios" "90128cf82e7153391f6aa5821c8b4e20f888b8bf"
 github "LoopKit/Amplitude-iOS" "2137d5fd44bf630ed33e1e72d7af6d8f8612f270"
 github "LoopKit/CGMBLEKit" "v2.1.1"
 github "i-schuetz/SwiftCharts" "0.6.1"

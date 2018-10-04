@@ -214,7 +214,7 @@
 "G5/G6 Transmitter" = "G5/G6 トランスミッタ";
 
 /* The title of the glucose and prediction graph */
-"Glucose" = "血糖値 9.29_1";
+"Glucose" = "血糖値";
 
 /* The error message when glucose data is too old to be used. (1: glucose data age in minutes) */
 "Glucose data is %1$@ old" = "血糖データは %1$@ 前のものです";
